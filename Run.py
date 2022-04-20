@@ -38,7 +38,7 @@ def __main__():
             token = re.search('(EAAB\w+)', rex.text).group(1)
             print(f"\n{M}#{P} Your token :{H} {token}")
     elif masuk in ['2','02']:
-      print(f"{P}!{K}.{P} Anda akan diarahkan ke youtube...");time.sleep(2);os.system('xdg-open https://youtu.be/-o_0Bwpj_Po');exit()
+      print(f"{P}!{K}.{P} Anda akan diarahkan ke Facebook...");time.sleep(2);os.system('xdg-open https://www.facebook.com/abdurahman.amirr.3');exit()
     elif masuk in ['3','03']:
       exit()
     else:
