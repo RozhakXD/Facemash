@@ -45,10 +45,6 @@ Facemash can be used by trial members with terms and conditions applied, By crea
   <img src="Data/Success.png">
 </p>
 
-<p align="center">
-  <img src="Data/Checkpoint.png">
-</p>
-
 ## Disclaimer
 This tool is developed for educational purposes. Here it demonstrates how cracking works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of Facemash!
 
