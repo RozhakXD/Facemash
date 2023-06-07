@@ -4,8 +4,8 @@
 <br>
   <img src="https://img.shields.io/badge/python-3.11-blue.svg">
   <img src="https://img.shields.io/badge/Author-Rozhak-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-No-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
 </p>
 
 <p align="center">
