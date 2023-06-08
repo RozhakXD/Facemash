@@ -43,6 +43,7 @@ Facemash can be used by trial members with terms and conditions applied, By crea
 
 <p align="center">
   <img src="Data/Success.png">
+  <img src="Data/Checkpoint.png">
 </p>
 
 ## Disclaimer
