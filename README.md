@@ -22,17 +22,21 @@ Facemash can be used by trial members with terms and conditions applied, By crea
 * [Linux](https://drive.google.com/file/d/12RkbvHPeDl5yO4FvFzli8TB38NvfDWEo/view?usp=drive_link) - [Termux](https://f-droid.org/repo/com.termux_118.apk)
   ```
   >> apt update -y && apt upgrade -y
-  >> pkg install clang binutils python3 git libffi openssl libsodium iproute2 
-  >> SODIUM_INSTALL=system pip3 install PyNaCl
+  >> pkg install clang binutils git libffi openssl libsodium iproute2 
+  >> pkg remove python -y
+  >> pkg install tur-repo -y
+  >> pkg install python3.9 -y
+  >> python3.9 -m pip install --upgrade pip
   >> git clone https://github.com/RozhakXD/Facemash
-  >> cd "Facemash" && git pull
-  >> pip3 install -r requirements.txt
-  >> python3 Run.py
+  >> cd "Facemash"
+  >> python3.9 -m pip install -r requirements.txt
+  >> python3.9 Run.py
   ```
   - Running on Termux
     ```
     >> cd "$HOME/Facemash"
-    >> python3 Run.py
+    >> python3.9 Run.py
+    ```
 
 ## Requirements
 * Python version 3.11 and higher.
