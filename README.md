@@ -39,8 +39,8 @@ Facemash can be used by trial members with terms and conditions applied, By crea
     ```
 
 ## Requirements
-* Python version 3.11 and higher.
 * New Facebook account.
+* Python version 3.9.
 * The latest version of the Termux application.
 
 ## Screenshot
