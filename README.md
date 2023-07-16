@@ -53,7 +53,7 @@ Facemash can be used by trial members with terms and conditions applied, By crea
 
 ### Get Success Results?
 
-- Use good methods like **MBASIC.FACEBOOK.COM, FREE.FACEBOOK.COM, D.FACEBOOK.COM, WEB.FACEBOOK.COM.**
+- Use good methods like **MBASIC, FREE, D.FACEBOOK.COM, WEB.**
 - Use recommended providers such as **INDOSAT, AXIS.**
 - Find a good target in the recommended **"Crack Dari Member Group"** and look for a Facebook group that has a lot of new account members.
 - Use a good user-agent like **REALME, OPPO, SAMSUNG, ONEPLUS, POCO, XIAOMI, HUAWEI, VIVO.**
