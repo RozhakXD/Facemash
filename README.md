@@ -12,12 +12,16 @@
   <img src="Data/Facemash.jpg">
 </p>
 
-## Description
+##
+
+### Description
 Facemash is a tool to find passwords on random facebook accounts, This tool was released on January 1, 2023 with a much different version than before.
 
 Facemash can be used by trial members with terms and conditions applied, By creating an account on the website [Instakey](https://instakey.rozhak.xyz/register/), Apikey can also be used on our [Instagram Brute Force](https://github.com/RozhakXD/Premium) tools and I, as a developer, am not responsible if something unexpected happens.
 
-## Installation
+##
+
+### Installation
 
 * [Linux](https://drive.google.com/file/d/12RkbvHPeDl5yO4FvFzli8TB38NvfDWEo/view?usp=drive_link) - [Termux](https://f-droid.org/repo/com.termux_118.apk)
   ```
@@ -38,25 +42,63 @@ Facemash can be used by trial members with terms and conditions applied, By crea
     >> python3.9 Run.py
     ```
 
-## Requirements
-* New Facebook account.
-* Python version 3.9.
-* The latest version of the Termux application.
+##
 
-## Screenshot
+### Features In Script?
 
-<p align="center">
-  <img src="Data/Success.png">
-  <img src="Data/Checkpoint.png">
-</p>
+- The script is made 100% using **GraphQL** or **https://web.facebook.com.**
+- Working method and very complete.
+- Generates a random user-agent.
+- Form data in a complete script to avoid spam.
 
-## Disclaimer
-This tool is developed for educational purposes. Here it demonstrates how cracking works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of Facemash!
+### Get Success Results?
 
-<h2 align="left">Connect with me</h2>
-<p align="left">
-  <a href="https://www.facebook.com/rozhak.official"><img title="Connect on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://twitter.com/rozhak_"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/rozhakxd"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/rozhak_official"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+- Use good methods like **MBASIC.FACEBOOK.COM, FREE.FACEBOOK.COM, D.FACEBOOK.COM, WEB.FACEBOOK.COM.**
+- Use recommended providers such as **INDOSAT, AXIS.**
+- Find a good target in the recommended **"Crack Dari Member Group"** and look for a Facebook group that has a lot of new account members.
+- Use a good user-agent like **REALME, OPPO, SAMSUNG, ONEPLUS, POCO, XIAOMI, HUAWEI, VIVO.**
+
+### Why No Results?
+
+- You chose the wrong password list, it is recommended to use a password such as **DEFAULT, LENGKAP** or number **01, 02.**
+- You don't turn on **"Airplane Mode"** every 200 usernames.
+- IP addresses are blocked or spammed.
+- Your target has a difficult password or is not on the list.
+
+### Why My Account Is Checkpoint?
+
+**Solution :**
+- Facebook accounts come with a phone number, email, and two-factor authentication.
+- The Facebook account is online in the browser to retrieve cookies.
+- Open **"https://web.facebook.com"** in desktop mode during Dump and refresh every few minutes.
+
+### Why Dump Failed?
+
+- You enter the wrong target, make sure to check before dumping.
+- Maybe your facebook account got spammed or temporarily blocked for 24 hours.
+- Maybe your Facebook account is locked or hit by a checkpoint.
+
+### Why Checkpoint Results?
+
+**Factor :**
+- I'm sure that all the checkpoint results are affected by the target.
+- The user-agent or method doesn't match in the target.
+- Maybe the provider used is not suitable for executing the target.
+
+##
+
+### Screenshot
+
+![Results/Ok-16-July-2023.txt](https://github.com/RozhakXD/Facemash/blob/main/Data/Success.png)
+
+##
+
+### Disclaimer!
+
+I am a developer not responsible if something happens that you want, all errors will be borne by Facemash users. I hope you read the laws that apply in each country.
+
+##
+
+```python
+print("Happy Hacking Day!")
+```
