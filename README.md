@@ -15,9 +15,9 @@
 ##
 
 ### Description
-Facemash is a tool to find passwords on random facebook accounts, This tool was released on January 1, 2023 with a much different version than before.
+Facemash is a script to find passwords on random facebook accounts, This tool was released on January 1, 2023 with a much different version than before.
 
-Facemash can be used by trial members with terms and conditions applied, By creating an account on the website [Instakey](https://instakey.rozhak.xyz/register/), Apikey can also be used on our [Instagram Brute Force](https://github.com/RozhakXD/Premium) tools and I, as a developer, am not responsible if something unexpected happens.
+Facemash can be used by trial members with terms and conditions applied, By creating an account on the website [Instakey](https://instakey.rozhak.xyz/register/), Apikey can also be used on our [Premium](https://github.com/RozhakXD/Premium) script.
 
 ##
 
