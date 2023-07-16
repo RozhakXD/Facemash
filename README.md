@@ -95,8 +95,7 @@ Facemash can be used by trial members with terms and conditions applied, By crea
 
 ### Disclaimer!
 
-I am a developer not responsible if something happens that you want, all errors will be borne by Facemash users. I hope you read the laws that apply in each country.
-
+I hope you read the laws that apply in each country. I am a developer not responsible if something happens that you want, all errors will be borne by **Facemash** users.
 ##
 
 ```python
