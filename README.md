@@ -37,6 +37,7 @@
   >> python3.9 Run.py
   ```
   - Running on Termux
+
     ```
     >> cd "$HOME/Facemash"
     >> python3.9 Run.py
@@ -53,9 +54,10 @@
 
 ### Get Success Results?
 
-- Use good methods like **MBASIC, FREE, D.FACEBOOK.COM, WEB.**
-- Use recommended providers such as **INDOSAT, AXIS.**
 - Find a good target in the recommended **"Crack Dari Member Group"** and look for a Facebook group that has a lot of new account members.
+- Use good methods like **MBASIC, FREE, D.FACEBOOK.COM, ACCESS TOKEN.**
+- Please find a good target, try to have lots of friends and all new accounts.
+- Use recommended providers such as **INDOSAT, AXIS.**
 - Use a good user-agent like **REALME, OPPO, SAMSUNG, ONEPLUS, POCO, XIAOMI, HUAWEI, VIVO.**
 
 ### Why No Results?
@@ -89,7 +91,7 @@
 
 ### Screenshot
 
-![Results/Ok-16-July-2023.txt](https://github.com/RozhakXD/Facemash/blob/main/Data/Success.png)
+![Results/Ok-24-July-2023.txt](https://github.com/RozhakXD/Facemash/blob/main/Data/Ok-24-July-2023.png)
 
 ##
 
