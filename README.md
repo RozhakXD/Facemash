@@ -24,6 +24,7 @@
 ### Installation
 
 * [Linux](https://drive.google.com/file/d/12RkbvHPeDl5yO4FvFzli8TB38NvfDWEo/view?usp=drive_link) - [Termux](https://f-droid.org/repo/com.termux_118.apk)
+
   ```
   >> apt update -y && apt upgrade -y
   >> pkg install clang binutils git libffi openssl libsodium iproute2 
