@@ -67,6 +67,7 @@
 - You don't turn on **"Airplane Mode"** every 200 usernames.
 - IP addresses are blocked or spammed.
 - Your target has a difficult password or is not on the list.
+- I recommend using method **"https://web.facebook.com/" (Regular)**.
 
 ### Why My Account Is Checkpoint?
 
