@@ -46,7 +46,7 @@
 
 ##
 
-### Target requirements on dump?
+### Target Requirements On Dump?
 
 - **Likes**: Must have at least 1000 likes, not the most popular post recommended from the homepage, and not a post from the cover photo or profile photo.
 - **Friends :** Must have more than 300 friends, be visible to the public, and not be a professional account.
