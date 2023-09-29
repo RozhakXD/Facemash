@@ -15,9 +15,9 @@
 ##
 
 ### Description
-**Facemash** is a script to find passwords on random facebook accounts, This tool was released on January 1, 2023 with a much different version than before.
+**Facemash** is a script to get a Facebook account that has an easy password. This script was released January 1, 2023, which is the final and newest version of Facebook.
 
-**Facemash** can be used by trial members with terms and conditions applied, By creating an account on the website [Instakey](https://instakey.rozhak.xyz/register/), Apikey can also be used on our [Premium](https://github.com/RozhakXD/Premium) script.
+**Facemash** is not a main script because it is only a complement to the [Instagram](https://github.com/RozhakXD/Premium) script which is the main parent of this script. All features will be perfect in the Instagram script.
 
 ##
 
@@ -46,48 +46,51 @@
 
 ##
 
-### Features In Script?
+### Target requirements on dump?
 
-- The script is made 100% using **GraphQL** or **https://web.facebook.com.**
-- Working method and very complete.
-- Generates a random user-agent.
-- Form data in a complete script to avoid spam.
+- **Likes**: Must have at least 1000 likes, not the most popular post recommended from the homepage, and not a post from the cover photo or profile photo.
+- **Friends :** Must have more than 300 friends, be visible to the public, and not be a professional account.
+- **Group**: Must have members and the group is not private.
+- **Followers**: Must have more than 500 followers and not be a professional account.
 
 ### Get Success Results?
 
-- Please find a target that has friends only new accounts.
-- Use good methods like **ASYNC, REGULAR, SIGN UP.**
+- You have to look for a target that has a new account and make sure the target is good or has a bad password.
+- Use good methods like **MBASIC, DEFAULT, MESSENGER LITE.**
 - Use recommended providers such as **INDOSAT, AXIS.**
-- Find targets in the area where you live.
+- I recommend that you look for targets in the same area as you.
 - Use a good user-agent like **REALME, OPPO, SAMSUNG, ONEPLUS, POCO, XIAOMI, HUAWEI, VIVO.**
 
 ### Why No Results?
 
 - You chose the wrong password list, it is recommended to use a password such as **DEFAULT, LENGKAP** or number **01, 02.**
+- Your target has a difficult password or no one has an easy password.
 - You don't turn on **"Airplane Mode"** every 200 usernames.
-- IP addresses are blocked or spammed.
-- Your target has a difficult password or is not on the list.
-- I recommend using method **"https://web.facebook.com/" (Regular)**.
+- Your IP address is being blocked or spammed.
+- The Facebook system is having problems causing no crack results.
+- I think if there are no results at all it is your target that is the problem.
 
 ### Why My Account Is Checkpoint?
 
 **Solution :**
+- I hope that if your account is hit by a checkpoint, you have to open it so that the account lasts longer.
+- Use a fake account or a newly created account.
 - Facebook accounts come with a phone number, email, and two-factor authentication.
 - The Facebook account is online in the browser to retrieve cookies.
 - Open **"https://web.facebook.com"** in desktop mode during Dump and refresh every few minutes.
 
 ### Why Dump Failed?
 
-- You enter the wrong target, make sure to check before dumping.
-- Maybe your facebook account got spammed or temporarily blocked for 24 hours.
-- Maybe your Facebook account is locked or hit by a checkpoint.
+- I also think your Facebook account must have been blocked for dumping for 24 hours or spammed.
+- Maybe your Facebook account has been checkpointed or temporarily locked.
+- The target you entered is not correct. Make sure you check whether the target meets the requirements.
 
-### Why Checkpoint Results?
+### I only get Checkpoints?
 
-**Factor :**
-- I'm sure that all the checkpoint results are affected by the target.
-- The user-agent or method doesn't match in the target.
-- Maybe the provider used is not suitable for executing the target.
+- The target you entered has already executed someone.
+- Your provider is not suitable for this script.
+- The target you entered is not good or you are unlucky.
+- Inappropriate selection of method and user-agent.
 
 ##
 
@@ -99,7 +102,7 @@
 
 ### Disclaimer!
 
-I hope you read the laws that apply in each country. I am a developer not responsible if something happens that you want, all errors will be borne by **Facemash** users.
+I hope you read the laws that apply in each country. I am a developer not responsible if something happens that you want, all errors will be borne by the script user.
 ##
 
 ```python
