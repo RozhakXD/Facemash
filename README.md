@@ -15,7 +15,7 @@
 ##
 
 ### Description
-**Facemash** is a script to get a Facebook account that has an easy password. This script was released January 1, 2023, which is the final and newest version of Facebook.
+**[Facemash](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTI4ODI1MTk3NzAyNzIw?story_media_id=3122076630454228803_5398218083)** is a script to get a Facebook account that has an easy password. This script was released January 1, 2023, which is the final and newest version of Facebook.
 
 **Facemash** is not a main script because it is only a complement to the [Instagram](https://github.com/RozhakXD/Premium) script which is the main parent of this script. All features will be perfect in the Instagram script.
 
