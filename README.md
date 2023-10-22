@@ -23,7 +23,7 @@
 
 ### Installation
 
-* [Linux](https://drive.google.com/file/d/12RkbvHPeDl5yO4FvFzli8TB38NvfDWEo/view?usp=drive_link) - [Termux](https://f-droid.org/repo/com.termux_118.apk)
+* [Linux](https://drive.google.com/file/d/1IbP1CHRwOzUKHyq0AZz9MbuzjQKhGdtL/view?usp=drivesdk) - [Termux](https://f-droid.org/repo/com.termux_118.apk)
 
   ```
   >> apt update -y && apt upgrade -y
