@@ -1,4 +1,4 @@
-# FACEMASH - FACEBOOK BRUTE FORCE PREMIUM
+c# FACEMASH - FACEBOOK BRUTE FORCE PREMIUM
 
 <p
 <br>
@@ -27,21 +27,20 @@
 
   ```
   >> apt update -y && apt upgrade -y
-  >> pkg install clang binutils git libffi openssl libsodium iproute2 
-  >> pkg remove python -y
-  >> pkg install tur-repo -y
-  >> pkg install python3.9 -y
-  >> python3.9 -m pip install --upgrade pip
+  >> pkg install python-pip clang binutils git libffi openssl libsodium iproute2
+  >> apt install python-cryptography
+  >> python -m pip install --upgrade pip
+  >> SODIUM_INSTALL=system pip install pynacl
   >> git clone https://github.com/RozhakXD/Facemash
   >> cd "Facemash"
-  >> python3.9 -m pip install -r requirements.txt
-  >> python3.9 Run.py
+  >> python -m pip install -r requirements.txt
+  >> python Run.py
   ```
   - Running on Termux
 
     ```
     >> cd "$HOME/Facemash"
-    >> python3.9 Run.py
+    >> python Run.py
     ```
 
 ##
