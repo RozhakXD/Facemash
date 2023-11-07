@@ -1,5 +1,5 @@
 pycryptodome
-fake-useragent
+cryptography
 requests
 rich
 futures
