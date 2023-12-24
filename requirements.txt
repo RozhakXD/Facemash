@@ -5,3 +5,4 @@ rich
 futures
 pycryptodomex
 PyNaCl
+cython
