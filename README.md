@@ -34,13 +34,14 @@
   >> git clone https://github.com/RozhakXD/Facemash
   >> cd "Facemash"
   >> python -m pip install -r requirements.txt
-  >> python Run.py
+  >> chmod +x aarch64
+  >> ./aarch64
   ```
   - Running on Termux
 
     ```
     >> cd "$HOME/Facemash"
-    >> python Run.py
+    >> ./aarch64
     ```
 
 ##
