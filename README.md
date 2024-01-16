@@ -56,7 +56,7 @@
 ### Get Success Results?
 
 - You have to look for a target that has a new account and make sure the target is good or has a bad password.
-- Use good methods like **MBASIC, DEFAULT, MESSENGER LITE.**
+- Use good methods like **MBASIC, ADS MANAGER, MOBILE.**
 - Use recommended providers such as **INDOSAT, AXIS.**
 - I recommend that you look for targets in the same area as you.
 - Use a good user-agent like **REALME, OPPO, SAMSUNG, ONEPLUS, POCO, XIAOMI, HUAWEI, VIVO.**
