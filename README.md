@@ -63,8 +63,8 @@
 
 ### Why No Results?
 
-- You entered the password list incorrectly, just use the automatic password.
 - Your target has a difficult password or no one has an easy password.
+- You entered the password list incorrectly, just use the automatic password.
 - You don't turn on **"Airplane Mode"** every 200 usernames.
 - Your IP address is being blocked or spammed.
 - The Facebook system is having problems causing no crack results.
