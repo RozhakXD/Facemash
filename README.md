@@ -88,9 +88,9 @@
 
 - The target you entered is not good or you are unlucky.
 - The target you entered has already executed someone.
-- The Facebook system is increasingly difficult to get good results.
 - Your provider is not suitable for this script.
 - Inappropriate selection of method and user-agent.
+- The Facebook system is increasingly difficult to get good results.
 
 ##
 
