@@ -86,9 +86,9 @@
 
 ### I only get Checkpoints?
 
+- The target you entered is not good or you are unlucky.
 - The target you entered has already executed someone.
 - Facebook's system is strict or has been updated causing poor results.
-- The target you entered is not good or you are unlucky.
 - Your provider is not suitable for this script.
 - Inappropriate selection of method and user-agent.
 
