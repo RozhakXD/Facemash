@@ -89,6 +89,7 @@
 - The target you entered has already executed someone.
 - Your provider is not suitable for this script.
 - The target you entered is not good or you are unlucky.
+- Facebook's system is strict or has been updated causing poor results.
 - Inappropriate selection of method and user-agent.
 
 ##
