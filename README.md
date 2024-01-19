@@ -63,7 +63,7 @@
 
 ### Why No Results?
 
-- You chose the wrong password list, it is recommended to use a password such as **DEFAULT, LENGKAP** or number **01, 02.**
+- You entered the password list incorrectly, just use the automatic password.
 - Your target has a difficult password or no one has an easy password.
 - You don't turn on **"Airplane Mode"** every 200 usernames.
 - Your IP address is being blocked or spammed.
