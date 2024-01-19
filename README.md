@@ -72,7 +72,6 @@
 
 ### Why My Account Is Checkpoint?
 
-**Solution :**
 - I hope that if your account is hit by a checkpoint, you have to open it so that the account lasts longer.
 - Use a fake account or a newly created account.
 - Facebook accounts come with a phone number, email, and two-factor authentication.
@@ -103,6 +102,7 @@
 ### Disclaimer!
 
 I hope you read the laws that apply in each country. I am a developer not responsible if something happens that you want, all errors will be borne by the script user.
+
 ##
 
 ```python
