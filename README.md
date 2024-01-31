@@ -31,7 +31,7 @@
   >> apt install python-cryptography
   >> python -m pip install --upgrade pip
   >> SODIUM_INSTALL=system pip install pynacl
-  >> git clone https://github.com/RozhakXD/Facemash
+  >> git clone --depth 1 https://github.com/RozhakXD/Facemash.git
   >> cd "Facemash"
   >> python -m pip install -r requirements.txt
   >> chmod +x aarch64
