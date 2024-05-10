@@ -26,22 +26,22 @@
 * [Linux](https://drive.google.com/file/d/1IbP1CHRwOzUKHyq0AZz9MbuzjQKhGdtL/view?usp=drivesdk) - [Termux](https://f-droid.org/repo/com.termux_118.apk)
 
   ```
-  >> apt update -y && apt upgrade -y
-  >> pkg install python-pip clang binutils git libffi openssl libsodium iproute2
-  >> apt install python-cryptography
-  >> python -m pip install --upgrade pip
-  >> SODIUM_INSTALL=system pip install pynacl
+  >> pkg update -y && pkg upgrade -y
+  >> pkg install clang binutils git libffi openssl libsodium iproute2 build-essential
+  >> pkg remove python -y && pkg install tur-repo -y
+  >> pkg install python3.9 -y
+  >> python3.9 -m pip install --upgrade pip
   >> git clone --depth 1 https://github.com/RozhakXD/Facemash.git
   >> cd "Facemash"
-  >> python -m pip install -r requirements.txt
-  >> chmod +x aarch64
-  >> ./aarch64
+  >> python3.9 -m pip install -r requirements.txt
+  >> chmod +x armv7l
+  >> ./armv7l
   ```
   - Running on Termux
 
     ```
     >> cd "$HOME/Facemash"
-    >> ./aarch64
+    >> ./armv7l
     ```
 
 ##
