@@ -27,21 +27,20 @@
 
   ```
   >> pkg update -y && pkg upgrade -y
-  >> pkg install clang binutils git libffi openssl libsodium iproute2 build-essential
-  >> pkg remove python -y && pkg install tur-repo -y
-  >> pkg install python3.9 -y
-  >> python3.9 -m pip install --upgrade pip
+  >> pkg install python-pip clang binutils git libffi openssl libsodium iproute2 build-essential
+  >> SODIUM_INSTALL=system pip install pynacl
+  >> apt install python-cryptography
   >> git clone --depth 1 https://github.com/RozhakXD/Facemash.git
   >> cd "Facemash"
-  >> python3.9 -m pip install -r requirements.txt
-  >> chmod +x armv7l
-  >> ./armv7l
+  >> python -m pip install -r requirements.txt
+  >> chmod +x aarch64
+  >> ./aarch64
   ```
   - Running on Termux
 
     ```
     >> cd "$HOME/Facemash"
-    >> ./armv7l
+    >> ./aarch64
     ```
 
 ##
