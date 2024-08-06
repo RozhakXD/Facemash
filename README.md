@@ -111,7 +111,7 @@ Every user should read this section, even if you are not currently experiencing 
 
 ## Screenshot
 
-![Results/Ok-24-July-2023.txt](https://github.com/RozhakXD/Facemash/blob/main/Data/Ok-24-July-2023.png)
+![FunPic_20240806](https://github.com/user-attachments/assets/2c213a27-cefb-4211-9f03-ec5f7e59e2d0)
 
 ## Disclaimer
 
