@@ -2,7 +2,7 @@
 
 ![Facemash](https://github.com/user-attachments/assets/bb09eb6b-b863-4ef5-843a-5986984e7e8c)
 
-[**Facemash**](https://github.com/RozhakXD/Facemash) is a powerful and educational tool created to illustrate the vulnerability of Facebook accounts with weak passwords. Initially released on January 1, 2023, Facemash was designed to showcase techniques used in ethical hacking for educational purposes only. This latest and final version integrates various advanced features, which give users a thorough understanding of account security.
+[**Facemash**](https://github.com/RozhakXD/Facemash) is a powerful and educational tool designed to demonstrate the vulnerability of Facebook accounts with weak passwords. Originally released on January 1, 2023, Facemash aims to showcase techniques used in ethical hacking strictly for educational purposes. This latest and final version integrates advanced features to provide users with a comprehensive understanding of account security.
 
 ## Features
 
