@@ -27,21 +27,21 @@ The program includes certain password methods and options to enhance its functio
 * [Linux](https://drive.google.com/file/d/1IbP1CHRwOzUKHyq0AZz9MbuzjQKhGdtL/view?usp=drivesdk) - [Termux](https://f-droid.org/repo/com.termux_118.apk)
 
   ```
-  >> pkg update -y && pkg upgrade -y
-  >> pkg install python-pip clang binutils git libffi openssl libsodium iproute2 build-essential
-  >> SODIUM_INSTALL=system pip install pynacl
-  >> apt install python-cryptography
-  >> git clone --depth 1 https://github.com/RozhakXD/Facemash.git
-  >> cd "Facemash"
-  >> python -m pip install -r requirements.txt
-  >> chmod +x Run
-  >> ./Run
+  $ pkg update -y && pkg upgrade -y
+  $ pkg install python-pip clang binutils git libffi openssl libsodium iproute2 build-essential
+  $ SODIUM_INSTALL=system pip install pynacl
+  $ apt install python-cryptography
+  $ git clone --depth 1 https://github.com/RozhakXD/Facemash.git
+  $ cd "Facemash"
+  $ python -m pip install -r requirements.txt
+  $ chmod +x Run
+  $ ./Run
   ```
   - Running on Termux
 
     ```
-    >> cd "$HOME/Facemash"
-    >> ./Run
+    $ cd "$HOME/Facemash"
+    $ ./Run
     ```
 
 ## Problems and Solutions
