@@ -2,7 +2,7 @@
 
 ![Facemash](https://github.com/user-attachments/assets/bb09eb6b-b863-4ef5-843a-5986984e7e8c)
 
-[**Facemash**](https://github.com/RozhakXD/Facemash) is an advanced and educational tool crafted to illustrate the vulnerabilities of Facebook accounts with weak passwords. Originally released on January 1, 2023, Facemash is designed to showcase the techniques used in ethical hacking for educational purposes only. This latest and final version integrates various powerful features, providing users with a comprehensive understanding of account security.
+[**Facemash**](https://github.com/RozhakXD/Facemash) is a powerful and educational tool created to illustrate the vulnerability of Facebook accounts with weak passwords. Initially released on January 1, 2023, Facemash was designed to showcase techniques used in ethical hacking for educational purposes only. This latest and final version integrates various advanced features, which give users a thorough understanding of account security.
 
 ## Features
 
@@ -10,14 +10,14 @@ Facemash is an advanced educational tool designed to illustrate the vulnerabilit
 
 <details>
   <summary>Show Image Features</summary>
-  <img src="https://github.com/user-attachments/assets/a0b9b0eb-c92b-4d3c-9817-85be6166c014" alt="Facemash Features">
+  <img src="https://github.com/user-attachments/assets/fb30651b-04a0-47c6-bbc8-cc91441e8149" alt="Facemash Features">
 </details>
 
 In addition to these features, Facemash offers the functionality to view all hack results, target group admins, and hack accounts using random email addresses. Users can even search for Shock Fund links associated with an account. Each feature is designed to provide a comprehensive understanding of account security, making Facemash a powerful resource for ethical hacking education.
 
 <details>
   <summary>Show Login Image</summary>
-  <img src="https://github.com/user-attachments/assets/290c47be-d6ac-4683-ba2d-752e5db3e8eb" alt="Facemash Login">
+  <img src="https://github.com/user-attachments/assets/832209c0-4d28-488c-96ad-db3161d471e8" alt="Facemash Login">
 </details>
 
 The program includes certain password methods and options to enhance its functionality. Users can choose from several password approaches: full password, default password, manual password, and combined password. Furthermore, Facemash offers various methods for solving the problem, including asynchronous and regular methods via various Facebook URLs, and Ad Manager or developer methods.
