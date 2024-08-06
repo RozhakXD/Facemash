@@ -13,7 +13,7 @@ Facemash is an advanced educational tool designed to illustrate the vulnerabilit
   <img src="https://github.com/user-attachments/assets/a0b9b0eb-c92b-4d3c-9817-85be6166c014" alt="Facemash Features">
 </details>
 
-In addition to these core features, Facemash offers functionalities for viewing all cracking results, targeting group admins, and cracking accounts using random email addresses. Users can even search for Dana Kaget links associated with accounts. Each feature is crafted to provide a comprehensive understanding of account security, making Facemash a powerful resource for ethical hacking education.
+In addition to these features, Facemash offers the functionality to view all hack results, target group admins, and hack accounts using random email addresses. Users can even search for Shock Fund links associated with an account. Each feature is designed to provide a comprehensive understanding of account security, making Facemash a powerful resource for ethical hacking education.
 
 <details>
   <summary>Show Login Image</summary>
@@ -66,20 +66,20 @@ This section provides an overview of common problems you may encounter while usi
 
 ### **3. Troubleshooting No Results?**
 
-- **Strong Passwords**: The target account may have a strong password that is difficult to crack.
-- **Incorrect Password List**: You might have entered the password list incorrectly. It's recommended to use the automatic password option.
 - **Airplane Mode Not Used**: Ensure you activate **"Airplane Mode"** every 200 usernames to avoid detection.
+- **Incorrect Password List**: You might have entered the password list incorrectly. It's recommended to use the automatic password option.
+- **Strong Passwords**: The target account may have a strong password that is difficult to crack.
 - **Blocked IP Address**: Your IP address might be blocked or flagged for suspicious activity.
 - **Facebook System Issues**: There could be temporary issues with the Facebook system that prevent successful cracking.
 - **Problematic Target**: If there are no results at all, the issue might be with the target account itself.
 
 ### **4. Why My Account Is Checkpointed?**
 
+- **Refresh Regularly**: Open [**`Facebook Web`**](https://web.facebook.com) in desktop mode during the Dump process and refresh the page every few minutes.
 - **Open Checkpointed Accounts**: If your account is hit by a checkpoint, open it to ensure it remains active and lasts longer.
-- **Use Fake or New Accounts**: It's recommended to use a fake account or a newly created account for these activities.
 - **Secure Your Account**: Ensure your Facebook account has a phone number, email, and two-factor authentication enabled.
 - **Retrieve Cookies**: Keep the Facebook account online in the browser to retrieve cookies effectively.
-- **Refresh Regularly**: Open [**`Facebook Web`**](https://web.facebook.com) in desktop mode during the Dump process and refresh the page every few minutes.
+- **Use Fake or New Accounts**: It's recommended to use a fake account or a newly created account for these activities.
 
 ### **5. Understanding Dump Failures?**
 
@@ -89,23 +89,22 @@ This section provides an overview of common problems you may encounter while usi
 
 ### **6. Only Getting Checkpoints?**
 
-- **Poor Target Selection**: The target you selected may not be suitable, or you might be experiencing bad luck with the target.
 - **Previously Used Target**: The target account may have already been compromised by someone else.
+- **Poor Target Selection**: The target you selected may not be suitable, or you might be experiencing bad luck with the target.
 - **Unsuitable Provider**: Your internet provider may not be suitable for this script.
 - **Incorrect Method or User-Agent**: The method or user-agent you selected might be inappropriate for the task.
 - **Facebook System Changes**: The Facebook system may have become more challenging, making it harder to get successful results.
 
 ### **6. Trouble Logging In?**
 
--  **Use Cookies to Log In**: If you still can't log in, try using cookies from the cracked account. This involves copying the cookies from the web session where the account was accessed and using them to authenticate the login.
-- **IP Address is Blocked**: Your IP address might be blocked, causing login issues. Consider using a VPN or switching networks.
 - **Try Logging in with a Facebook App Cloner**: If you're having trouble logging in, try using a Facebook app cloner.
+- **IP Address is Blocked**: Your IP address might be blocked, causing login issues. Consider using a VPN or switching networks.
+-  **Use Cookies to Log In**: If you still can't log in, try using cookies from the cracked account. This involves copying the cookies from the web session where the account was accessed and using them to authenticate the login.
 
 ### **7. Common Cracking Errors?**
 
 - **`LSD TOKEN NOT FOUND`**: This occurs because the user agent has disabled JavaScript. Don’t worry, this does not interfere with the hacking process.
 - **`PUBLIC KEY NOT FOUND`**: This happens because you are using a password encryption system that cannot find the public key. However, this will not affect the results obtained.
-- **`CONNECTION ERROR`**: This is definitely a problem with your internet connection. Make sure your connection is stable and strong.
 - **`TOO MANY REDIRECTS`**: This error indicates an issue with the network or user agent causing continuous login redirects, suggesting that your device is not compatible with the method being used.
 
 Every user should read this section, even if you are not currently experiencing a problem. Understanding these problems and solutions will prepare you for potential future problems and help you use the Program effectively.
