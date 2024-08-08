@@ -109,6 +109,11 @@ This section provides an overview of common problems you may encounter while usi
 
 Every user should read this section, even if you are not currently experiencing a problem. Understanding these problems and solutions will prepare you for potential future problems and help you use the Program effectively.
 
+### **8. Why Can't You Use WiFi?**
+- **Unsuccessful Results or Checkpoints**: Using WiFi can lead to unsuccessful results or missing checkpoints.
+- **WiFi IP Address Doesn't Change**: WiFi cannot change its IP address easily, making it more likely for the IP to get blocked.
+- **Not a Solution for Saving Internet Data**: Using WiFi is not an effective solution for saving your internet data.
+
 ## Screenshot
 
 ![FunPic_20240806](https://github.com/user-attachments/assets/2c213a27-cefb-4211-9f03-ec5f7e59e2d0)
